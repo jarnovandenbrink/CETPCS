@@ -1,0 +1,4 @@
+1. .\register.ps1 -DriverPath "C:\Users\developer\Desktop\driver.sys"
+2. fltmc load driver
+3. fltmc unload driver
+4. reg delete "HKLM\SYSTEM\CurrentControlSet\Services\driver" /f

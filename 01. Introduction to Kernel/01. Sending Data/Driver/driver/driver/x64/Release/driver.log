@@ -1,0 +1,17 @@
+﻿  Building 'driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  driver.vcxproj -> C:\Users\developer\Desktop\CEPTCS\01. Introduction to Kernel\01. Sending Data\Driver\driver\x64\Release\driver.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\developer\Desktop\CEPTCS\01. Introduction to Kernel\01. Sending Data\Driver\driver\x64\Release\driver\driver.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\developer\Desktop\CEPTCS\01. Introduction to Kernel\01. Sending Data\Driver\driver\x64\Release\driver\driver.cat
+  
